@@ -1,0 +1,4 @@
+,r_points,r_text,place,scores,compound,score
+62,10,"Visited only a couple of days ago. The service was terrible - you could almost say completely non-existent ! Furthermore, the establishment does not appreciate any form of criticism or feedback - this is definitely not the way to run a business !!!",Cook Shop,"{'neg': 0.204, 'neu': 0.737, 'pos': 0.059, 'compound': -0.7735}",-0.7735,neg
+94,50,"This tiny, cosy restaurant offers a good variety of home made food at very offardable prices. The bad thing is that it's only open for lunch and for dinner only on Fridays.",Cook Shop,"{'neg': 0.099, 'neu': 0.819, 'pos': 0.082, 'compound': -0.1531}",-0.1531,neg
+168,10,"Maybe they just had a bad day, but the food was awful, ingredients were not fresh and drinks were bad.Service was ok, but other than that I wouldn't think of coming here again. Ever.",Cook Shop,"{'neg': 0.22, 'neu': 0.709, 'pos': 0.071, 'compound': -0.7089}",-0.7089,neg
